@@ -1,4 +1,4 @@
-node-adage
+tFortune
 ==========
 
 Fortune (Unix) for Node
