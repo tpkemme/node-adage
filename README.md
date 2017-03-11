@@ -1,15 +1,15 @@
 tFortune
 ==========
 
-Fortune (Unix) for Node
+Fork of adage to fix the output for html
 
 example
 =======
 ```js
-var adage = require('adage');
+var tfortune = require('tfortune');
 var options = {};
 
-adage(options, function(err, a) {
+tfortune.(options, function(err, a) {
   console.log(a);
 }); // => "You will always get the greatest recognition for the job you least like."
 ```
@@ -20,5 +20,5 @@ install
 With [npm](http://npmjs.org) do:
 
 ```
-npm install adage
+npm install tfortune
 ```
