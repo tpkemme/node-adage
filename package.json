@@ -1,7 +1,7 @@
 {
-  "name": "adage",
-  "version": "1.0.2",
-  "description": "Unix fortune for Node",
+  "name": "tadage",
+  "version": "1.0.1",
+  "description": "fork of adage to only provide fortunes",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,7 +11,7 @@
     "adage",
     "unix"
   ],
-  "author": "Drew Stokes <drew@drewstokes.com>",
+  "author": "Tyler Kemme <tylerkemme@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "binary-split": "^0.1.2",
@@ -21,10 +21,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git://github.com/dstokes/node-adage.git"
+    "url": "git://github.com/tpkemme/node-adage.git"
   },
   "bugs": {
-    "url": "https://github.com/dstokes/node-adage/issues"
+    "url": "https://github.com/tpkemme/node-adage/issues"
   },
-  "homepage": "https://github.com/dstokes/node-adage#readme"
+  "homepage": "https://github.com/tpkemme/node-adage#readme"
 }
