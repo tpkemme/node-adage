@@ -1,6 +1,6 @@
 {
-  "name": "tadage",
-  "version": "1.0.1",
+  "name": "tfortune",
+  "version": "1.0.0",
   "description": "fork of adage to only provide fortunes",
   "main": "index.js",
   "scripts": {
