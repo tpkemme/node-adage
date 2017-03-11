@@ -4,7 +4,8 @@ var rands = require('rand-stream');
 var split = require('binary-split');
 
 var meta = {
-  'fortunes': { offsets: [] }
+  'fortunes': { offsets: [] },
+  'riddles': { offsets: [] }
 };
 var types = Object.keys(meta);
 
