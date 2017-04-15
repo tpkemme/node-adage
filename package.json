@@ -21,10 +21,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git://github.com/tpkemme/node-adage.git"
+    "url": "git://github.com/tpkemme/tfortune.git"
   },
   "bugs": {
-    "url": "https://github.com/tpkemme/node-adage/issues"
+    "url": "https://github.com/tpkemme/tfortune/issues"
   },
-  "homepage": "https://github.com/tpkemme/node-adage#readme"
+  "homepage": "https://github.com/tpkemme/tfortune#readme"
 }
